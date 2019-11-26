@@ -1,10 +1,12 @@
+%define   oname MathJax
+
 Name:       mathjax
-Version:    2.7.2
-Release:    %mkrel 2
+Version:    2.7.7
+Release:    1
 Summary:    JavaScript library to render math in the browser
 License:    ASL 2.0
 URL:        http://mathjax.org
-Source0:    https://github.com/mathjax/MathJax/archive/%{version}.tar.gz
+Source0:    https://github.com/mathjax/MathJax/archive/%{version}/%{oname}-%{version}.tar.gz
 Group:      Sciences/Mathematics
 
 BuildArch:  noarch
