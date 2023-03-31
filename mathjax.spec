@@ -2,7 +2,7 @@
 
 Name:       mathjax
 Version:    2.7.7
-Release:    1
+Release:    2
 Summary:    JavaScript library to render math in the browser
 License:    ASL 2.0
 URL:        http://mathjax.org
